@@ -1,15 +1,15 @@
 <?php
 
-namespace Mews\Purifier\Facades;
+namespace Xlstudio\Purifier\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \Mews\Purifier
- */
+* @see \Xlstudio\Purifier
+*/
 class Purifier extends Facade
 {
-
+    
     protected static function getFacadeAccessor()
     {
         return 'purifier';
