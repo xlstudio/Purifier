@@ -38,7 +38,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Mews\\Purifier\\": "src/"
+      "Xlstudio\\Purifier\\": "src/"
     },
     "files": [
       "src/helpers.php"
@@ -46,7 +46,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "Mews\\Tests\\Purifier\\": "tests/"
+      "Xlstudio\\Tests\\Purifier\\": "tests/"
     }
   },
   "minimum-stability": "dev",

@@ -1,9 +1,9 @@
 <?php
 
-namespace Mews\Tests\Purifier;
+namespace Xlstudio\Tests\Purifier;
 
 use GrahamCampbell\TestBenchCore\ServiceProviderTrait;
-use Mews\Purifier\Purifier;
+use Xlstudio\Purifier\Purifier;
 
 class ServiceProviderTest extends AbstractTestCase
 {

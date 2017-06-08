@@ -1,4 +1,5 @@
-<?php namespace Xlstudio\Purifier;
+<?php
+namespace Xlstudio\Purifier;
 
 use Illuminate\Container\Container;
 use Illuminate\Foundation\Application as LaravelApplication;
