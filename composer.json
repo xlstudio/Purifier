@@ -1,15 +1,21 @@
 {
-  "name": "mews/purifier",
+  "name": "xlstudio/purifier",
   "type": "package",
   "description": "Laravel 5 HtmlPurifier Package",
   "keywords": ["laravel5 HtmlPurifier", "laravel5 Purifier", "laravel5 Security", "HtmlPurifier", "Purifier", "security", "xss"],
-  "homepage": "https://github.com/mewebstudio/purifier",
+  "homepage": "https://github.com/xlstudio/purifier",
   "license": "MIT",
   "authors": [
     {
       "name": "Muharrem ERİN",
       "email": "me@mewebstudio.com",
       "homepage": "https://github.com/mewebstudio",
+      "role": "Developer"
+    },
+    {
+      "name": "Xiphin",
+      "email": "Xiphin@qq.com",
+      "homepage": "https://github.com/Xiphin",
       "role": "Developer"
     }
   ],
@@ -18,7 +24,7 @@
     "illuminate/config": "5.1.*|5.2.*|5.3.*|5.4.*",
     "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*",
     "illuminate/filesystem": "5.1.*|5.2.*|5.3.*|5.4.*",
-    "ezyang/htmlpurifier": "4.8.*"
+    "ezyang/htmlpurifier": "4.9.*"
   },
   "require-dev": {
     "phpunit/phpunit": "^4.8|^5.0",
